@@ -1,0 +1,26 @@
+.blog{
+    /* background-color: #e0e1dd; */
+    margin-bottom: 32px;
+    padding: 10px 20px 40px;
+    border: 1px solid #778da9;
+    border-radius: 16px;
+    box-shadow: 10px 10px 10px -10px #e0e1dd;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    color: #0d1b2a;
+}
+p{
+    font-size: 16px;
+    color: #1b263b;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    color: #e0e1dd;
+    font-size: 16px;
+    background-color: #1b263b;
+    padding: 12px 24px;
+    border-radius: 8px;
+}
